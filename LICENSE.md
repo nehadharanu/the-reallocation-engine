@@ -1,21 +1,30 @@
 # License
 
-Copyright © 2026 Nik Bear Brown · Published by Bear Brown, LLC.
+Copyright © 2026 Nik Bear Brown. All rights reserved.
 
-This repository is **dual-licensed**. Different parts carry different licenses:
+Published by Bear Brown, LLC.
 
-| Part | What it is | License |
-|---|---|---|
-| **Software** | `scripts/`, `build.sh`, `graphs.sh`, `package.json`, build tooling, pipeline recipes (`recipes/`), instruction-build system | **MIT** — see [`LICENSE`](LICENSE) |
-| **Book content** | manuscript text, `chapters/`, front/back matter, `exercises/`, figures, tables, prompts, key terms, and supporting educational materials | **CC BY 4.0** — see [`LICENSE-BOOK-CC-BY-4.0.md`](LICENSE-BOOK-CC-BY-4.0.md) |
-| **Third-party data** | `data/` (SEC, BLS/O*NET, DOL/H-1B, 80 Days, etc.) | **Source terms apply** — not licensed by this project; see each source |
+No part of this publication may be reproduced, distributed, or transmitted in any
+form or by any means without the prior written permission of the publisher, except
+in the case of brief quotations in critical reviews and certain other noncommercial
+uses permitted by copyright law.
 
-If a specific file states its own license, that file's statement governs.
+ISBN: [INSERT ISBN]
 
-**Plain-language summary:** the code is MIT (use it freely, keep the notice).
-The book is CC BY 4.0 (share, adapt, and even sell it — just credit the author).
-The bundled data belongs to its original publishers and is included under their
-terms, not relicensed here.
+First edition: 2026
 
-For course adoption, platform integration, or Medhavy / Medhavi use, contact
-Bear Brown, LLC.
+---
+
+## All Rights Reserved
+
+The manuscript text, figures, and code in this repository are © 2026 Nik Bear Brown, published by Bear Brown, LLC. This is an explicit all-rights-reserved license. Reproduction, distribution, public display, or the creation of derivative works requires the prior written permission of the publisher, except for brief quotations in critical reviews and certain other noncommercial uses permitted by copyright law (fair use). No open-source, Creative Commons, or other public license is granted by the presence of these files in a repository.
+
+This file (`LICENSE.md`) is the authoritative statement of rights for this work and supersedes any other license file present in this repository.
+
+## Trademarks and Third-Party Material
+
+Product names, company names, trademarks, and external links referenced in this work belong to their respective owners and are used for identification and commentary only. Their mention does not imply endorsement. Cited sources and bundled third-party data remain the property of their original authors and publishers and are subject to their own terms.
+
+## Contact
+
+For permissions, course adoption, platform integration, or Medhavy / Medhavi licensing inquiries, contact bear@bearbrown.co.

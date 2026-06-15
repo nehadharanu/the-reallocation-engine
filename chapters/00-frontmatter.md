@@ -1,3 +1,9 @@
+<!--
+  FRONT MATTER — title page, copyright, dedication, preface.
+  Pre-body sections (roman-numeral in a print edition); do not number them as chapters.
+  Keep the Medhavy note in the copyright area. Preface is Nik's voice (first person).
+-->
+
 # The Reallocation Engine
 
 **Nik Bear Brown**
@@ -16,22 +22,22 @@ ISBN: [INSERT ISBN]
 
 First edition: 2026
 
+> These are Kindle / online editions, designed for integration with **Medhavy** (also **Medhavi**) — मेधावी, Sanskrit for "intelligent" or "intellectually brilliant" — an AI-powered intelligent-textbook system. In Medhavy the chapters become adaptive practice: hints, worked examples, quizzes, and feedback loops. Learn more at https://www.medhavy.com/.
+
 ---
 
 ## Dedication
 
-*[For the readers doing the work before the tools can make sense of it.]*
+*For the international student with the clock running — spend the judgment where it counts.*
 
 ---
 
 ## Preface
 
-This book exists because the easy part of intellectual work has become easier, and the hard part has become easier to hide. A person can now generate a draft, a diagram, a summary, a lesson, a program, a business plan, or a research scaffold before they have fully understood what the work requires. That is useful. It is also dangerous. The danger is not that the machine writes. The danger is that the human stops noticing which parts of the work still require judgment.
+I wrote this book because the job search has quietly become a place where fluency and truth come apart. A cover letter can read beautifully and be aimed at a posting that closed three weeks ago. A résumé can sail through every keyword filter and land on a role that was never going to sponsor a visa. An AI can produce, in seconds, a hundred polished applications that the underlying evidence says will go nowhere. The output looks like progress. Often it is the opposite of progress — it is scarce effort, spent confidently, in the wrong place.
 
-The Reallocation Engine is written for readers who want more than tool fluency. It is for people who need a usable method: a way to decide what to delegate, what to inspect, what to refuse, and what to practice until it becomes part of their own competence. The present draft contains 2 body chapters.
+For most job-seekers that is an annoyance. For an international student on an F-1 visa with a counting clock — ninety aggregate days of unemployment on post-completion OPT, and the record terminates with no grace period — it is something closer to an emergency. The deadline does not care how busy you felt. It is the cleanest case I know of a more general truth: now that AI has made *execution* cheap, the scarce, decisive resource is *judgment* — knowing which role is worth a day of your life, which evidence to trust, and when to walk away. This book is about reallocating effort toward that judgment, and building a small machine that does the grunt work honestly so you can.
 
-Why now is straightforward. AI systems have moved from novelty to infrastructure. They sit inside writing, coding, design, research, teaching, analysis, operations, and decision support. The old advice — learn the tool, write better prompts, move faster — is not enough. Speed without judgment simply accelerates error.
+I write from the intersection of teaching, engineering, and AI systems. At Northeastern I teach AI, data science, and AI fluency, and my through-line is *learn AI by doing AI* — not pressing a button and accepting the output, but specifying, delegating, auditing, and taking responsibility for what leaves the screen. Through Humanitarians AI, the nonprofit I founded, I work with international graduates on OPT who are building production-scale AI with public evidence of real work — people living this exact deadline. The Reallocation Engine grew out of that work: a real repository of scripts and recipes that turns a record, not a feeling, into an Apply / Consider / Skip decision about a real role.
 
-I write this from the intersection of teaching, engineering, AI systems, and curriculum design.
-
-This preface is a rough production draft. It should be tightened after the chapters stabilize, especially where a coauthor, editor, course team, or domain expert has supplied the lived knowledge that makes the book more than a generic AI text.
+A word on what this book is not. It is not immigration counsel — nothing here is legal advice, and the visa rules it leans on must be checked against current USCIS guidance and a qualified attorney before you act on them. It is not a guide to gaming applicant-tracking systems, and it argues hard against misrepresentation of any kind. And it is not a general AI manual; it is one worked example — a job search under a deadline — of a discipline that applies far beyond it. The chapters that follow turn that discipline into something you can run.
